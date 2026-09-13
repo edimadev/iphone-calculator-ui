@@ -10,6 +10,14 @@ Recriação visual da calculadora do iPhone, desenvolvida com HTML e CSS para pr
 
 </div>
 
+## Demonstração
+
+<div align="center">
+
+<img src="./images/iphone-calculator-preview.png" alt="Prévia da interface da calculadora do iPhone" width="100%">
+
+</div>
+
 ## Sobre o projeto
 
 O **iPhone Calculator UI** é meu primeiro projeto de desenvolvimento Front-End. A proposta é reproduzir a aparência da calculadora do iPhone, explorando organização de elementos com HTML e técnicas de estilização e posicionamento com CSS.
